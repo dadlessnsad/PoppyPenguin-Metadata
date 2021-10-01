@@ -9,15 +9,15 @@
 - Gene 5 [8:10] - shoes attribute
 
 ## Genes and their variations
-Gene Count = 5
-Background count = 9
-Penguin skins (base) = 47
+- Gene Count = 5
+- Background count = 9
+- Penguin skins (base) = 47
     - Skins #00 To #17 Common skins
     - Skins #18 To #36 Rare skins
     - Skins #37 To 46 Legendary skins
-FrontItem Count = 13
-Eyewear Count = 10
-Hands Count = 12
+- FrontItem Count = 13
+- Eyewear Count = 10
+- Hands Count = 12
 
 
 # Genes Names 
