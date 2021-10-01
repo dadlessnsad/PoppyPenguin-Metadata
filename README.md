@@ -38,6 +38,6 @@
 
 
 ## Mint Price & Scramble Price
-Mint Price = 50 Matic
-Scramble Gene = 15 Matic
-Randomize All Genes = 10 Matic
+- Mint Price = 50 Matic
+- Scramble Gene = 15 Matic
+- Randomize All Genes = 10 Matic
